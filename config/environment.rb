@@ -31,3 +31,4 @@
 		end
 	end
 	
+	require_all 'lib'
